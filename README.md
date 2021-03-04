@@ -1,4 +1,4 @@
 # exercises_python_lpthw
 
-Contains all exercizes from lpthw.
+Contains all exercises from lpthw.
 Nothing special.
